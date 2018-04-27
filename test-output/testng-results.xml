@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="395626" started-at="2017-08-03T11:14:46Z" finished-at="2017-08-03T11:21:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="395626" started-at="2017-08-03T11:14:46Z" finished-at="2017-08-03T11:21:22Z">
+      <class name="com.TPL.Automate.TPLCrewApp">
+        <test-method status="PASS" signature="configBeforeclass()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="configBeforeclass" is-config="true" duration-ms="8" started-at="2017-08-03T16:44:46Z" finished-at="2017-08-03T16:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeclass -->
+        <test-method status="PASS" signature="LaunchAPP()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="LaunchAPP" is-config="true" duration-ms="15395" started-at="2017-08-03T16:44:46Z" finished-at="2017-08-03T16:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAPP -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Login" is-config="true" duration-ms="24243" started-at="2017-08-03T16:45:01Z" finished-at="2017-08-03T16:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Appointments()[pri:1, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Appointments" duration-ms="55079" started-at="2017-08-03T16:45:26Z" finished-at="2017-08-03T16:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appointments -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="configAfterMtd" is-config="true" duration-ms="6231" started-at="2017-08-03T16:46:21Z" finished-at="2017-08-03T16:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="LaunchAPP()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="LaunchAPP" is-config="true" duration-ms="15278" started-at="2017-08-03T16:46:27Z" finished-at="2017-08-03T16:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAPP -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Login" is-config="true" duration-ms="26547" started-at="2017-08-03T16:46:42Z" finished-at="2017-08-03T16:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Transfercheckinother()[pri:2, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Transfercheckinother" duration-ms="23814" started-at="2017-08-03T16:47:09Z" finished-at="2017-08-03T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfercheckinother -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="configAfterMtd" is-config="true" duration-ms="4081" started-at="2017-08-03T16:47:33Z" finished-at="2017-08-03T16:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="LaunchAPP()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="LaunchAPP" is-config="true" duration-ms="17941" started-at="2017-08-03T16:47:37Z" finished-at="2017-08-03T16:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAPP -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Login" is-config="true" duration-ms="22867" started-at="2017-08-03T16:47:55Z" finished-at="2017-08-03T16:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TransferSend()[pri:3, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="TransferSend" duration-ms="68454" started-at="2017-08-03T16:48:18Z" finished-at="2017-08-03T16:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TransferSend -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="configAfterMtd" is-config="true" duration-ms="7360" started-at="2017-08-03T16:49:26Z" finished-at="2017-08-03T16:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="LaunchAPP()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="LaunchAPP" is-config="true" duration-ms="22392" started-at="2017-08-03T16:49:33Z" finished-at="2017-08-03T16:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAPP -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="Login" is-config="true" duration-ms="22549" started-at="2017-08-03T16:49:56Z" finished-at="2017-08-03T16:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TransferRecieve()[pri:4, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="TransferRecieve" duration-ms="59375" started-at="2017-08-03T16:50:18Z" finished-at="2017-08-03T16:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TransferRecieve -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.TPL.Automate.TPLCrewApp@47c62251]" name="configAfterMtd" is-config="true" duration-ms="3982" started-at="2017-08-03T16:51:18Z" finished-at="2017-08-03T16:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+      </class> <!-- com.TPL.Automate.TPLCrewApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
